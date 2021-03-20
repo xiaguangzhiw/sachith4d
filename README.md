@@ -1,1 +1,1 @@
-# Keras-tuner-on-fashion-mnist dataset
+# Keras-tuner on fashion-mnist dataset
